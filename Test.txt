@@ -33,3 +33,41 @@ KB5041577 Security Update 8/14/2024 12:00:00 AM
 KB5043126 Security Update 9/11/2024 12:00:00 AM 
 
 
+
+
+============================================================
+Report for: JNLABWS1
+Vigilix Name: LABS.SUPPORT\MANAGE SERVICE - Simphony lab
+Timestamp: 2024-12-12 13:43:56
+============================================================
+
+HotFixID  Description     InstalledOn           
+--------  -----------     -----------           
+KB5046269 Update          12/10/2024 12:00:00 AM
+KB4480056 Update          1/18/2019 12:00:00 AM 
+KB4486153 Update          4/20/2022 12:00:00 AM 
+KB4504369 Security Update 6/16/2019 12:00:00 AM 
+KB4512577 Security Update 9/19/2019 12:00:00 AM 
+KB4512937 Security Update 8/27/2019 12:00:00 AM 
+KB4521862 Security Update 10/29/2019 12:00:00 AM
+KB4523204 Security Update 12/4/2019 12:00:00 AM 
+KB4535680 Security Update 4/26/2021 12:00:00 AM 
+KB4539571 Security Update 4/6/2020 12:00:00 AM  
+KB4549947 Security Update 4/23/2020 12:00:00 AM 
+KB4558997 Security Update 8/11/2020 12:00:00 AM 
+KB4589208 Update          4/26/2021 12:00:00 AM 
+KB5001404 Security Update 4/26/2021 12:00:00 AM 
+KB5001407 Update          4/26/2021 12:00:00 AM 
+KB5003243 Security Update 5/24/2021 12:00:00 AM 
+KB5048661 Security Update 12/11/2024 12:00:00 AM
+KB5008287 Security Update 12/16/2021 12:00:00 AM
+KB5011574 Update          4/18/2022 12:00:00 AM 
+KB5012675 Update          5/15/2022 12:00:00 AM 
+KB5014797 Update          7/16/2022 12:00:00 AM 
+KB5015896 Update          8/31/2022 12:00:00 AM 
+KB5020374 Security Update 11/16/2022 12:00:00 AM
+KB5028316 Security Update 9/3/2023 12:00:00 AM  
+KB5041577 Security Update 8/14/2024 12:00:00 AM 
+KB5043126 Security Update 9/11/2024 12:00:00 AM 
+
+
